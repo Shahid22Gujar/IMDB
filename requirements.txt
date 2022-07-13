@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlmodel==0.0.6
+sqlalchemy
+passlib
+bcrypt
+python-jose
+gunicorn
+python-multipart
+pydantic[email]
